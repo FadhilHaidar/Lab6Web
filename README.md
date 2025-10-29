@@ -28,9 +28,15 @@
   
   - Anda tidak diperbolehkan menggunakan CSS float atau clear manual.
 
+  <img width="937" height="957" alt="image" src="https://github.com/user-attachments/assets/5c24843b-e514-4a8d-a2e7-4d3e8ddb1e5d" />
+
+  <img width="937" height="758" alt="image" src="https://github.com/user-attachments/assets/3659f9a9-3284-4b64-b72c-8f9666d6505c" />
+
 2. Refactor Form Praktikum 5
 
   Ambil salah satu form dari Praktikum 5 (misalnya Form Input 23atau Form Button 24). Buat ulang form tersebut agar terlihat rapi menggunakan class-class form Bootstrap (.form-control, .form-label, .btn).
+
+  <img width="661" height="668" alt="image" src="https://github.com/user-attachments/assets/293a14b4-3ff1-4a32-b291-bc14e21fc9d3" />
 
 3. Tugas: Buat Halaman Portfolio Sederhana
 
@@ -44,3 +50,7 @@
   
   c. Sebuah section "Portfolio Saya" di dalam .container dengan 1 baris (.row) dan 3 kolom (.col-md-4):
     - Setiap kolom berisi satu komponen .card yang merepresentasikan satu proyek (beri gambar dummy dan deskripsi singkat).
+
+  <img width="937" height="840" alt="image" src="https://github.com/user-attachments/assets/9802e5a9-8fba-4e9f-9817-7a9b1115ce5c" />
+
+  <img width="936" height="586" alt="image" src="https://github.com/user-attachments/assets/a5329ffa-b469-4af3-917a-6676ebf0f8a6" />
